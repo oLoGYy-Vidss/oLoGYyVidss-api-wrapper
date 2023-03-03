@@ -1,4 +1,4 @@
-<img src="https://ologyyvidss.com/images/logo.png" align="right" style="max-width: 100%"/>
+<img src="https://ologyyvidss.com/images/logo.png" align="right" style="width: 140px; max-width: 190px"/>
 
 # oLoGYyVidss.com API Wrapper
 
